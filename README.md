@@ -1,10 +1,12 @@
 # pubs2026
 
 ## Planning [4]
-- OCA2-HERC2 haplotypes with ONT data;
-- Harmonizone scores - Kinases;
-- KIR math modeling;
-- Freebayes vs Clair3 in HLA genotyping;
+- OCA2-HERC2 haplotypes with ONT data [paper];
+- Harmonizone scores - Kinases [paper];
+- KIR math modeling [paper];
+- Freebayes vs Clair3 in HLA genotyping [paper/conf];
+- whey [software];
+- VariantAtlas [software];
 
 ## In progress [10]
 - Paper Corote (Luis Justulin) - writing
