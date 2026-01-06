@@ -1,6 +1,6 @@
 # pubs2026
 
-## Planning [4]
+## Planning [6]
 - OCA2-HERC2 haplotypes with ONT data [paper];
 - Harmonizone scores - Kinases [paper];
 - KIR math modeling [paper];
