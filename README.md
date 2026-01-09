@@ -28,4 +28,5 @@
 - Omics-Based Molecular Signatures of Adrenal, Kidney, and Lung Development in Male Rat Offspring Exposed to Maternal Protein Restriction (Justulin)
 - Diapocynin demonstrates superior antitumor activity over apocynin by redox-targeted modulation of osteosarcoma in vitro (Flavia)
 
-## Accepted [0]
+## Accepted [1]
+- Venous endothelial cells promote osteoblast differentiation more effectively than arterial cells via TGF-β/BMP9 and NOTCH pathway-related gene expression. (Willian zambuzzi)
