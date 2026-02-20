@@ -10,7 +10,7 @@ Scholar citations: 626;
 - whey [software];
 - VariantAtlas [software];
 
-## In progress [10]
+## In progress [11]
 - Paper Corote (Luis Justulin) - writing
 - miRs - Emershow (Willian Zambuzzi) - final results
 - tidyspec (Marcel Ferreira) - writing
@@ -21,6 +21,7 @@ Scholar citations: 626;
 - Paper Matheus Luquirini (Willian Zambuzzi);
 - Proteomic (Flavia) - final writing;
 - Bruna Costa: PRF, HAp, ADSC (Rodrigo Cardoso);
+- ML for biomaterials prediction with scores;
 
 ## Submitted [6]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
