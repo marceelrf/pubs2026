@@ -20,7 +20,6 @@ Scholar citations: 626;
 - paper metiloma (Willian Zambuzzi) - final results
 - Paper Matheus Luquirini (Willian Zambuzzi);
 - Proteomic (Flavia) - final writing;
-- Bruna Costa: PRF, HAp, ADSC (Rodrigo Cardoso);
 - ML for biomaterials prediction with scores;
 
 ## Submitted [6]
@@ -30,6 +29,7 @@ Scholar citations: 626;
 - Differential plasticity of arterial and venous endothelial cell on driving osteoblastic phenotype (Willian Zambuzzi)
 - Omics-Based Molecular Signatures of Adrenal, Kidney, and Lung Development in Male Rat Offspring Exposed to Maternal Protein Restriction (Justulin)
 - Diapocynin demonstrates superior antitumor activity over apocynin by redox-targeted modulation of osteosarcoma in vitro (Flavia)
+- Bruna Costa: PRF, HAp, ADSC (Rodrigo Cardoso);
 
 ## Accepted [1]
 - Venous endothelial cells promote osteoblast differentiation more effectively than arterial cells via TGF-β/BMP9 and NOTCH pathway-related gene expression. (Willian zambuzzi)
