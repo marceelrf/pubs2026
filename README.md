@@ -30,7 +30,7 @@ Scholar citations: 626;
 - Diapocynin demonstrates superior antitumor activity over apocynin by redox-targeted modulation of osteosarcoma in vitro (Flavia)
 - Bruna Costa: PRF, HAp, ADSC (Rodrigo Cardoso);
 
-## Accepted [3]
+## Accepted [4]
 - Venous endothelial cells promote osteoblast differentiation more effectively than arterial cells via TGF-β/BMP9 and NOTCH pathway-related gene expression. (Willian zambuzzi)
 - Cobalt-doped biphasic calcium phosphate orchestrates osteogenesis-angiogenesis signals via hypoxia-mimetic signaling (Willian Zambuzzi)
 - Omics-Based Molecular Signatures of Adrenal, Kidney, and Lung Development in Male Rat Offspring Exposed to Maternal Protein Restriction (Justulin)
