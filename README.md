@@ -34,3 +34,5 @@ Scholar citations: 626;
 - Venous endothelial cells promote osteoblast differentiation more effectively than arterial cells via TGF-β/BMP9 and NOTCH pathway-related gene expression. (Willian zambuzzi)
 - Cobalt-doped biphasic calcium phosphate orchestrates osteogenesis-angiogenesis signals via hypoxia-mimetic signaling (Willian Zambuzzi)
 - Omics-Based Molecular Signatures of Adrenal, Kidney, and Lung Development in Male Rat Offspring Exposed to Maternal Protein Restriction (Justulin)
+- Renal Proteomics of Male Offspring Exposed to Maternal Protein Restriction: Molecular, Epigenetic, and Nephron-Specific Signatures of Metabolic Programming (Justulin)
+
