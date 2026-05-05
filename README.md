@@ -22,7 +22,7 @@ Scholar citations: 626;
 - Proteomic (Flavia) - final writing;
 - ML for biomaterials prediction with scores;
 
-## Submitted [7]
+## Submitted [6]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 - Cytokines - Geovanna (Marcia)
 - Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi)
