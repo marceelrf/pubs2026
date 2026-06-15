@@ -9,6 +9,7 @@ Scholar citations: 626;
 - Freebayes vs Clair3 in HLA genotyping [paper/conf];
 - whey [software];
 - VariantAtlas [software];
+- Freebayes - ML variant filter
 
 ## In progress [10]
 - Paper Corote (Luis Justulin) - writing
