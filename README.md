@@ -2,14 +2,14 @@
 
 Scholar citations: 626;
 
-## Planning [6]
+## Planning [7]
 - OCA2-HERC2 haplotypes with ONT data [paper];
 - Harmonizone scores - Kinases [paper];
 - KIR math modeling [paper];
 - Freebayes vs Clair3 in HLA genotyping [paper/conf];
 - whey [software];
 - VariantAtlas [software];
-- Freebayes - ML variant filter
+- Freebayes - ML variant filter [software/paper]
 
 ## In progress [10]
 - Paper Corote (Luis Justulin) - writing
