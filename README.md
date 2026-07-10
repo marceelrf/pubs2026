@@ -2,10 +2,9 @@
 
 Scholar citations: 626;
 
-## Planning [7]
+## Planning [6]
 - OCA2-HERC2 haplotypes with ONT data [paper];
 - Harmonizone scores - Kinases [paper];
-- KIR math modeling [paper];
 - Freebayes vs Clair3 in HLA genotyping [paper/conf];
 - whey [software];
 - VariantAtlas [software];
