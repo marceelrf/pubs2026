@@ -31,6 +31,7 @@ Scholar citations: 626;
 - Bruna Costa: PRF, HAp, ADSC (Rodrigo Cardoso);
 - Bisphenol A, bisphenol F and DEHP microplastics reshape the transcriptome and elicit proteotoxic stress in a human 3D placental model: endocrine and translational implications​ (Vinicius);
 - Effects of SGLT2 inhibition on cardiac remodeling and heart failure development in aortic stenosis rats (Luana);
+- Maternal Protein Restriction Programs the Aging Kidney: Proteomic Signatures of Early-Life Origin Renal and Metabolic Dysfunction (Justulin);
 
 ## Accepted [4]
 - Venous endothelial cells promote osteoblast differentiation more effectively than arterial cells via TGF-β/BMP9 and NOTCH pathway-related gene expression. (Willian zambuzzi)
