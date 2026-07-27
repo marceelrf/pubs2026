@@ -9,7 +9,7 @@ Scholar citations: 626;
 - whey [software];
 - VariantAtlas [software];
 - Freebayes - ML variant filter [software/paper];
-- 
+- SIBLING cluster (chr4)[paper];
 
 ## In progress [10]
 - Paper Corote (Luis Justulin) - writing
