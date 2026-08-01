@@ -2,7 +2,7 @@
 
 Scholar citations: 626;
 
-## Planning [6]
+## Planning [7]
 - OCA2-HERC2 haplotypes with ONT data [paper];
 - Harmonizone scores - Kinases [paper];
 - Freebayes vs Clair3 in HLA genotyping [paper/conf];
@@ -23,7 +23,7 @@ Scholar citations: 626;
 - Proteomic (Flavia) - final writing;
 - ML for biomaterials prediction with scores;
 
-## Submitted [10]
+## Submitted [9]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 - Cytokines - Geovanna (Marcia)
 - Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi)
@@ -32,12 +32,11 @@ Scholar citations: 626;
 - Bruna Costa: PRF, HAp, ADSC (Rodrigo Cardoso);
 - Bisphenol A, bisphenol F and DEHP microplastics reshape the transcriptome and elicit proteotoxic stress in a human 3D placental model: endocrine and translational implications​ (Vinicius);
 - Effects of SGLT2 inhibition on cardiac remodeling and heart failure development in aortic stenosis rats (Luana);
-- Maternal Protein Restriction Programs the Aging Kidney: Proteomic Signatures of Early-Life Origin Renal and Metabolic Dysfunction (Justulin);
 - Shear stress modulates RUNX2 epigenetic remodeling and restricts endothelial osteogenic reprogramming (Willian Zambuzzi);
 
-## Accepted [4]
+## Accepted [5]
 - Venous endothelial cells promote osteoblast differentiation more effectively than arterial cells via TGF-β/BMP9 and NOTCH pathway-related gene expression. (Willian zambuzzi)
 - Cobalt-doped biphasic calcium phosphate orchestrates osteogenesis-angiogenesis signals via hypoxia-mimetic signaling (Willian Zambuzzi)
 - Omics-Based Molecular Signatures of Adrenal, Kidney, and Lung Development in Male Rat Offspring Exposed to Maternal Protein Restriction (Justulin)
 - Renal Proteomics of Male Offspring Exposed to Maternal Protein Restriction: Molecular, Epigenetic, and Nephron-Specific Signatures of Metabolic Programming (Justulin)
-
+- Maternal Protein Restriction Programs the Aging Kidney: Proteomic Signatures of Early-Life Origin Renal and Metabolic Dysfunction (Justulin);
