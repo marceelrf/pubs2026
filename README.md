@@ -23,7 +23,7 @@ Scholar citations: 626;
 - Proteomic (Flavia) - final writing;
 - ML for biomaterials prediction with scores;
 
-## Submitted [9]
+## Submitted [10]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 - Cytokines - Geovanna (Marcia)
 - Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi)
@@ -33,6 +33,7 @@ Scholar citations: 626;
 - Bisphenol A, bisphenol F and DEHP microplastics reshape the transcriptome and elicit proteotoxic stress in a human 3D placental model: endocrine and translational implications​ (Vinicius);
 - Effects of SGLT2 inhibition on cardiac remodeling and heart failure development in aortic stenosis rats (Luana);
 - Shear stress modulates RUNX2 epigenetic remodeling and restricts endothelial osteogenic reprogramming (Willian Zambuzzi);
+- Sintering temperature defines the biological identity of β-tricalcium phosphate through selective regulation of osteoblast molecular programs
 
 ## Accepted [5]
 - Venous endothelial cells promote osteoblast differentiation more effectively than arterial cells via TGF-β/BMP9 and NOTCH pathway-related gene expression. (Willian zambuzzi)
