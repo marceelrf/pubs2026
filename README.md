@@ -33,7 +33,7 @@ Scholar citations: 626;
 - Bisphenol A, bisphenol F and DEHP microplastics reshape the transcriptome and elicit proteotoxic stress in a human 3D placental model: endocrine and translational implications​ (Vinicius);
 - Effects of SGLT2 inhibition on cardiac remodeling and heart failure development in aortic stenosis rats (Luana);
 - Shear stress modulates RUNX2 epigenetic remodeling and restricts endothelial osteogenic reprogramming (Willian Zambuzzi);
-- Sintering temperature defines the biological identity of β-tricalcium phosphate through selective regulation of osteoblast molecular programs
+- Sintering temperature defines the biological identity of β-tricalcium phosphate through selective regulation of osteoblast molecular programs (Willian Zambuzzi);
 
 ## Accepted [5]
 - Venous endothelial cells promote osteoblast differentiation more effectively than arterial cells via TGF-β/BMP9 and NOTCH pathway-related gene expression. (Willian zambuzzi)
