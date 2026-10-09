@@ -23,7 +23,7 @@ Scholar citations: 626;
 - Proteomic (Flavia) - final writing;
 - ML for biomaterials prediction with scores;
 
-## Submitted [10]
+## Submitted [9]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 - Cytokines - Geovanna (Marcia)
 - Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi)
@@ -34,7 +34,7 @@ Scholar citations: 626;
 - Shear stress modulates RUNX2 epigenetic remodeling and restricts endothelial osteogenic reprogramming (Willian Zambuzzi);
 - Sintering temperature defines the biological identity of β-tricalcium phosphate through selective regulation of osteoblast molecular programs (Willian Zambuzzi);
 
-## Accepted [5]
+## Accepted [6]
 - Venous endothelial cells promote osteoblast differentiation more effectively than arterial cells via TGF-β/BMP9 and NOTCH pathway-related gene expression. (Willian zambuzzi)
 - Cobalt-doped biphasic calcium phosphate orchestrates osteogenesis-angiogenesis signals via hypoxia-mimetic signaling (Willian Zambuzzi)
 - Omics-Based Molecular Signatures of Adrenal, Kidney, and Lung Development in Male Rat Offspring Exposed to Maternal Protein Restriction (Justulin)
