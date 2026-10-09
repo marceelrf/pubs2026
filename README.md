@@ -30,7 +30,6 @@ Scholar citations: 626;
 - Differential plasticity of arterial and venous endothelial cell on driving osteoblastic phenotype (Willian Zambuzzi)
 - Diapocynin demonstrates superior antitumor activity over apocynin by redox-targeted modulation of osteosarcoma in vitro (Flavia)
 - Bruna Costa: PRF, HAp, ADSC (Rodrigo Cardoso);
-- Bisphenol A, bisphenol F and DEHP microplastics reshape the transcriptome and elicit proteotoxic stress in a human 3D placental model: endocrine and translational implications​ (Vinicius/Celia);
 - Effects of SGLT2 inhibition on cardiac remodeling and heart failure development in aortic stenosis rats (Luana);
 - Shear stress modulates RUNX2 epigenetic remodeling and restricts endothelial osteogenic reprogramming (Willian Zambuzzi);
 - Sintering temperature defines the biological identity of β-tricalcium phosphate through selective regulation of osteoblast molecular programs (Willian Zambuzzi);
@@ -41,3 +40,4 @@ Scholar citations: 626;
 - Omics-Based Molecular Signatures of Adrenal, Kidney, and Lung Development in Male Rat Offspring Exposed to Maternal Protein Restriction (Justulin)
 - Renal Proteomics of Male Offspring Exposed to Maternal Protein Restriction: Molecular, Epigenetic, and Nephron-Specific Signatures of Metabolic Programming (Justulin)
 - Maternal Protein Restriction Programs the Aging Kidney: Proteomic Signatures of Early-Life Origin Renal and Metabolic Dysfunction (Justulin);
+- Bisphenol A, bisphenol F and DEHP microplastics reshape the transcriptome and elicit proteotoxic stress in a human 3D placental model: endocrine and translational implications​ (Vinicius/Celia);
