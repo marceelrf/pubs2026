@@ -35,9 +35,9 @@ Scholar citations: 626;
 - Sintering temperature defines the biological identity of β-tricalcium phosphate through selective regulation of osteoblast molecular programs (Willian Zambuzzi);
 
 ## Accepted [6]
-- Venous endothelial cells promote osteoblast differentiation more effectively than arterial cells via TGF-β/BMP9 and NOTCH pathway-related gene expression. (Willian zambuzzi)
-- Cobalt-doped biphasic calcium phosphate orchestrates osteogenesis-angiogenesis signals via hypoxia-mimetic signaling (Willian Zambuzzi)
-- Omics-Based Molecular Signatures of Adrenal, Kidney, and Lung Development in Male Rat Offspring Exposed to Maternal Protein Restriction (Justulin)
-- Renal Proteomics of Male Offspring Exposed to Maternal Protein Restriction: Molecular, Epigenetic, and Nephron-Specific Signatures of Metabolic Programming (Justulin)
+- Venous endothelial cells promote osteoblast differentiation more effectively than arterial cells via TGF-β/BMP9 and NOTCH pathway-related gene expression. (Willian Zambuzzi);
+- Cobalt-doped biphasic calcium phosphate orchestrates osteogenesis-angiogenesis signals via hypoxia-mimetic signaling (Willian Zambuzzi);
+- Omics-Based Molecular Signatures of Adrenal, Kidney, and Lung Development in Male Rat Offspring Exposed to Maternal Protein Restriction (Justulin);
+- Renal Proteomics of Male Offspring Exposed to Maternal Protein Restriction: Molecular, Epigenetic, and Nephron-Specific Signatures of Metabolic Programming (Justulin);
 - Maternal Protein Restriction Programs the Aging Kidney: Proteomic Signatures of Early-Life Origin Renal and Metabolic Dysfunction (Justulin);
 - Bisphenol A, bisphenol F and DEHP microplastics reshape the transcriptome and elicit proteotoxic stress in a human 3D placental model: endocrine and translational implications​ (Vinicius/Celia);
